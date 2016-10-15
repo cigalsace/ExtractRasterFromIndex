@@ -16,8 +16,8 @@ email=guillaume.ryckelynck@region-alsace.eu
 
 about=With this plugin you can extract raster images from a specific extent layer wich intersec index catalog layer. You can specify a buffer around extent to enlarge it.
 
-tracker=https://github.com
-repository=cigalsace
+tracker=https://github.com/cigalsace/ExtractRasterFromIndex/issues
+repository=https://github.com/cigalsace/ExtractRasterFromIndex
 # End of mandatory metadata
 
 # Recommended items:
@@ -28,7 +28,7 @@ repository=cigalsace
 # Tags are comma separated with spaces allowed
 tags=raster, extract, index, catalog
 
-homepage=https://cigalsace.org
+homepage=https://www.cigalsace.org
 category=Plugins
 icon=icon.png
 # experimental flag
