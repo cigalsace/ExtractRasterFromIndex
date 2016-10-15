@@ -4,8 +4,8 @@ ExtractRasterFromIndex est une extension (plugin) QGIS qui permet d'extraire un 
 
 ## Installation
 
-- Télécharger et dézipper le code du plugin sur votre ordinateur
-- Placer le dossier résultant `RasterExtractIndex` dans le répertoire des plugins QGIS (généralement de la forme `utilisateurs/user/.qgis2/python/plugins`)
+- Télécharger et dézipper le code du plugin sur votre ordinateur das un répertoirte nommé `ExtractRasterFromIndex`
+- Placer le dossier résultant (`ExtractRasterFromIndex`) dans le répertoire des plugins QGIS (généralement de la forme `utilisateurs/user/.qgis2/python/plugins`)
 
 ## Utilisation
 
@@ -23,7 +23,7 @@ ExtractRasterFromIndex est une extension (plugin) QGIS qui permet d'extraire un 
 
 - Chargez le fichier du catalogue d'images (index) dans QGIS
 - Chargez le fichier d'emprise dans QGIS (au dessus du catalogue d'images)
-- Ouvrez le plugin "ExtractRasterIndex" (bouton ![icon.png](images/icon.png))
+- Ouvrez le plugin "ExtractRasterFromIndex" (bouton ![icon.png](images/icon.png))
 - Renseignez les différents champs demandés (tous sont obligatoires)
 - Cliquez sur OK pour démarrer l'extraction. Une barre de progression s'affiche permettant de suivre la lecture et copie des fichiers
 
