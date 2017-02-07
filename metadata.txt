@@ -7,14 +7,14 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=Extract Raster From Index
+name=Extract Index Raster
 qgisMinimumVersion=2.0
-description=Extract raster of index catalog images which intersect extent layer.
-version=0.07
+description=Extract raster from index catalog images which intersect extent layer.
+version=0.12
 author=G. Ryckelynck
-email=guillaume.ryckelynck@region-alsace.eu
+email=guillaume.ryckelynck@grandest.fr
 
-about=With this plugin you can extract raster images from a specific extent layer wich intersec index catalog layer. You can specify a buffer around extent to enlarge it.
+about=With this plugin you can extract raster images from a specific extent layer which intersec index catalog layer. You can specify a buffer around extent to enlarge it.
 
 tracker=https://github.com/cigalsace/ExtractRasterFromIndex/issues
 repository=https://github.com/cigalsace/ExtractRasterFromIndex

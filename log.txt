@@ -1,0 +1,144 @@
+2017-02-05 17:28:03 - INFO: 
+2017-02-05 17:28:03 - ERROR: Unable to remove temporal layer.
+2017-02-05 17:28:03 - INFO: 
+2017-02-05 17:28:03 - INFO: Dowload FTP file
+2017-02-05 17:28:03 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/catalog
+2017-02-05 17:28:03 - INFO: dst: C:\Users\Win7 Pro x64\.qgis2\python\plugins\RasterIndexExtract\tmp
+2017-02-05 17:28:03 - INFO: filename: dalles.shp
+2017-02-05 17:28:03 - INFO: src size: 704172
+2017-02-05 17:28:03 - INFO: dst size: 0
+2017-02-05 17:28:20 - INFO: dst new size: 704172
+2017-02-05 17:28:20 - INFO: status: file copied
+2017-02-05 17:28:21 - INFO: 
+2017-02-05 17:28:21 - ERROR: Download file from FTP error
+2017-02-05 17:28:21 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/catalog
+2017-02-05 17:28:21 - INFO: dst: C:\Users\Win7 Pro x64\.qgis2\python\plugins\RasterIndexExtract\tmp
+2017-02-05 17:28:21 - INFO: filename: dalles.dat
+2017-02-05 17:28:21 - INFO: 
+2017-02-05 17:28:21 - INFO: Dowload FTP file
+2017-02-05 17:28:21 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/catalog
+2017-02-05 17:28:21 - INFO: dst: C:\Users\Win7 Pro x64\.qgis2\python\plugins\RasterIndexExtract\tmp
+2017-02-05 17:28:21 - INFO: filename: dalles.dbf
+2017-02-05 17:28:21 - INFO: src size: 1320200
+2017-02-05 17:28:21 - INFO: dst size: 0
+2017-02-05 17:28:47 - INFO: dst new size: 1320200
+2017-02-05 17:28:47 - INFO: status: file copied
+2017-02-05 17:28:48 - INFO: 
+2017-02-05 17:28:48 - INFO: Dowload FTP file
+2017-02-05 17:28:48 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/catalog
+2017-02-05 17:28:48 - INFO: dst: C:\Users\Win7 Pro x64\.qgis2\python\plugins\RasterIndexExtract\tmp
+2017-02-05 17:28:48 - INFO: filename: dalles.shx
+2017-02-05 17:28:48 - INFO: src size: 41516
+2017-02-05 17:28:48 - INFO: dst size: 0
+2017-02-05 17:28:48 - INFO: dst new size: 41516
+2017-02-05 17:28:48 - INFO: status: file copied
+2017-02-05 17:28:48 - INFO: 
+2017-02-05 17:28:48 - INFO: Dowload FTP file
+2017-02-05 17:28:48 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/catalog
+2017-02-05 17:28:48 - INFO: dst: C:\Users\Win7 Pro x64\.qgis2\python\plugins\RasterIndexExtract\tmp
+2017-02-05 17:28:48 - INFO: filename: dalles.prj
+2017-02-05 17:28:48 - INFO: src size: 432
+2017-02-05 17:28:48 - INFO: dst size: 0
+2017-02-05 17:28:49 - INFO: dst new size: 432
+2017-02-05 17:28:49 - INFO: status: file copied
+2017-02-05 17:28:49 - INFO: 
+2017-02-05 17:28:49 - ERROR: Download file from FTP error
+2017-02-05 17:28:49 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/catalog
+2017-02-05 17:28:49 - INFO: dst: C:\Users\Win7 Pro x64\.qgis2\python\plugins\RasterIndexExtract\tmp
+2017-02-05 17:28:49 - INFO: filename: dalles.id
+2017-02-05 17:28:49 - INFO: 
+2017-02-05 17:28:49 - ERROR: Download file from FTP error
+2017-02-05 17:28:49 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/catalog
+2017-02-05 17:28:49 - INFO: dst: C:\Users\Win7 Pro x64\.qgis2\python\plugins\RasterIndexExtract\tmp
+2017-02-05 17:28:49 - INFO: filename: dalles.tab
+2017-02-05 17:28:50 - INFO: 
+2017-02-05 17:28:50 - ERROR: Download file from FTP error
+2017-02-05 17:28:50 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/catalog
+2017-02-05 17:28:50 - INFO: dst: C:\Users\Win7 Pro x64\.qgis2\python\plugins\RasterIndexExtract\tmp
+2017-02-05 17:28:50 - INFO: filename: dalles.map
+2017-02-05 17:28:50 - INFO: 
+2017-02-05 17:28:50 - INFO: indexLayer CRS: EPSG:2154
+2017-02-05 17:28:50 - INFO: extentLayer CRS: EPSG:2154
+2017-02-05 17:28:59 - INFO: 
+2017-02-05 17:28:59 - INFO: Nb files to copy: 124
+2017-02-05 17:29:00 - INFO: 
+2017-02-05 17:29:00 - INFO: Dowload FTP file
+2017-02-05 17:29:00 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/data
+2017-02-05 17:29:00 - INFO: dst: E:\DATA\test\extract
+2017-02-05 17:29:00 - INFO: filename: 67-2015-1039-6866-LA93-0M20-IRC-E100.jp2
+2017-02-05 17:29:00 - INFO: src size: 40144053
+2017-02-05 17:29:00 - INFO: dst size: 0
+2017-02-05 17:31:15 - INFO: dst new size: 40144053
+2017-02-05 17:31:15 - INFO: status: file copied
+2017-02-05 17:31:16 - INFO: 
+2017-02-05 17:31:16 - INFO: Dowload FTP file
+2017-02-05 17:31:16 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/data
+2017-02-05 17:31:16 - INFO: dst: E:\DATA\test\extract
+2017-02-05 17:31:16 - INFO: filename: 67-2015-1039-6866-LA93-0M20-IRC-E100.tab
+2017-02-05 17:31:16 - INFO: src size: 453
+2017-02-05 17:31:16 - INFO: dst size: 0
+2017-02-05 17:31:18 - INFO: dst new size: 453
+2017-02-05 17:31:18 - INFO: status: file copied
+2017-02-05 17:31:18 - INFO: 
+2017-02-05 17:31:18 - INFO: Dowload FTP file
+2017-02-05 17:31:18 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/data
+2017-02-05 17:31:18 - INFO: dst: E:\DATA\test\extract
+2017-02-05 17:31:18 - INFO: filename: 67-2015-1039-6867-LA93-0M20-IRC-E100.jp2
+2017-02-05 17:31:18 - INFO: src size: 40433868
+2017-02-05 17:31:18 - INFO: dst size: 0
+2017-02-05 17:34:39 - INFO: dst new size: 40433868
+2017-02-05 17:34:39 - INFO: status: file copied
+2017-02-05 17:34:39 - INFO: 
+2017-02-05 17:34:39 - INFO: Dowload FTP file
+2017-02-05 17:34:39 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/data
+2017-02-05 17:34:39 - INFO: dst: E:\DATA\test\extract
+2017-02-05 17:34:39 - INFO: filename: 67-2015-1039-6867-LA93-0M20-IRC-E100.tab
+2017-02-05 17:34:39 - INFO: src size: 453
+2017-02-05 17:34:39 - INFO: dst size: 0
+2017-02-05 17:34:41 - INFO: dst new size: 453
+2017-02-05 17:34:41 - INFO: status: file copied
+2017-02-05 17:34:41 - INFO: 
+2017-02-05 17:34:41 - INFO: Dowload FTP file
+2017-02-05 17:34:41 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/data
+2017-02-05 17:34:41 - INFO: dst: E:\DATA\test\extract
+2017-02-05 17:34:41 - INFO: filename: 67-2015-1039-6868-LA93-0M20-IRC-E100.jp2
+2017-02-05 17:34:41 - INFO: src size: 39714049
+2017-02-05 17:34:41 - INFO: dst size: 0
+2017-02-05 17:38:14 - INFO: dst new size: 39714049
+2017-02-05 17:38:14 - INFO: status: file copied
+2017-02-05 17:38:14 - INFO: 
+2017-02-05 17:38:14 - INFO: Dowload FTP file
+2017-02-05 17:38:14 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/data
+2017-02-05 17:38:14 - INFO: dst: E:\DATA\test\extract
+2017-02-05 17:38:14 - INFO: filename: 67-2015-1039-6868-LA93-0M20-IRC-E100.tab
+2017-02-05 17:38:14 - INFO: src size: 453
+2017-02-05 17:38:14 - INFO: dst size: 0
+2017-02-05 17:38:16 - INFO: dst new size: 453
+2017-02-05 17:38:16 - INFO: status: file copied
+2017-02-05 17:38:16 - INFO: 
+2017-02-05 17:38:16 - INFO: Dowload FTP file
+2017-02-05 17:38:16 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/data
+2017-02-05 17:38:16 - INFO: dst: E:\DATA\test\extract
+2017-02-05 17:38:16 - INFO: filename: 67-2015-1039-6869-LA93-0M20-IRC-E100.jp2
+2017-02-05 17:38:16 - INFO: src size: 39441876
+2017-02-05 17:38:16 - INFO: dst size: 0
+2017-02-05 17:41:18 - INFO: dst new size: 39441876
+2017-02-05 17:41:18 - INFO: status: file copied
+2017-02-05 17:41:18 - INFO: 
+2017-02-05 17:41:18 - INFO: Dowload FTP file
+2017-02-05 17:41:18 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/data
+2017-02-05 17:41:18 - INFO: dst: E:\DATA\test\extract
+2017-02-05 17:41:18 - INFO: filename: 67-2015-1039-6869-LA93-0M20-IRC-E100.tab
+2017-02-05 17:41:18 - INFO: src size: 453
+2017-02-05 17:41:18 - INFO: dst size: 0
+2017-02-05 17:41:26 - INFO: dst new size: 453
+2017-02-05 17:41:26 - INFO: status: file copied
+2017-02-05 17:41:26 - INFO: 
+2017-02-05 17:41:26 - INFO: Dowload FTP file
+2017-02-05 17:41:26 - INFO: src: /open_data/ORTHO_IRC_0M20_JP2_E100_L93_D67_2015/data
+2017-02-05 17:41:26 - INFO: dst: E:\DATA\test\extract
+2017-02-05 17:41:26 - INFO: filename: 67-2015-1039-6870-LA93-0M20-IRC-E100.jp2
+2017-02-05 17:41:26 - INFO: src size: 38102664
+2017-02-05 17:41:26 - INFO: dst size: 0
+2017-02-05 17:44:15 - INFO: dst new size: 38102664
+2017-02-05 17:44:15 - INFO: status: file copied

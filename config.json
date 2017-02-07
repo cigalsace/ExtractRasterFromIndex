@@ -1,0 +1,6 @@
+{
+    "remote_config": "https://ryckelynck.info/cigalsace.net/extractRaster/remote_config.json",
+    "ftp_url": "odgeo.grandest.fr",
+    "ftp_login": "Anonymous",
+    "ftp_pwd": ""
+}
