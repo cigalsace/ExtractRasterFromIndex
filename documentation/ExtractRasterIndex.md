@@ -5,7 +5,7 @@ Il permet également de télécharger des raster distants vai FTP. Il est par d�
 
 ## Installation
 
-- ![Télécharger](https://github.com/cigalsace/ExtractRasterFromIndex/archive/master.zip) et dézipper le code du plugin sur votre ordinateur dans un répertoirte nommé `ExtractRasterFromIndex`
+- Télécharger https://github.com/cigalsace/ExtractRasterFromIndex/archive/master.zip et dézipper le code du plugin sur votre ordinateur dans un répertoirte nommé `ExtractRasterFromIndex`
 - Placer le dossier résultant (`RasterIndexExtract`) dans le répertoire des plugins QGIS (généralement de la forme `utilisateurs/user/.qgis2/python/plugins`)
 
 ## Utilisation
